@@ -1,0 +1,42 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/njs_ex_exmples
+/.pnp
+.pnp.js
+/backup
+/draft
+/data
+# testing
+/coverage
+# Build/Production
+# /client/build
+# production
+/build
+
+# Editor specific
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+# Temporary files
+*.sw?
+*.cache
+.DS_Store
+# Generated / Auto-generated files
+/dist
+/dist-ssr
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
