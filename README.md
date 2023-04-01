@@ -5,7 +5,8 @@ various operations such as depositing/withdrawing money and more.
 ## Demo
 
 You can check the live demo at - [Bank API](https://bank-api-site.onrender.com/).
-[Client side] (https://github.com/Maor-R/bank-api-client/).
+Client side - [Bank API](https://github.com/Maor-R/bank-api-client/).
+
 ## Technologies used
 
 - **Node.js**
